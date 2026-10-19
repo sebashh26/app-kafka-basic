@@ -1,0 +1,6 @@
+[submodule "app-kafka-basic-consumer"]
+	path = app-kafka-basic-consumer
+	url = https://github.com/sebashh26/app-kafka-basic-consumer
+[submodule "app-kafka-basic-producer"]
+	path = app-kafka-basic-producer
+	url = https://github.com/sebashh26/app-kafka-basic-producer
